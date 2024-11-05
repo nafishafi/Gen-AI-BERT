@@ -61,4 +61,7 @@ dependencies {
 
     implementation("org.tensorflow:tensorflow-lite-task-text:0.3.0")
 
+    implementation("org.tensorflow:tensorflow-lite-gpu:2.9.0")
+    implementation("org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0")
+
 }
