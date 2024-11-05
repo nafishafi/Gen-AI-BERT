@@ -59,4 +59,6 @@ dependencies {
     // GSON library
     implementation("com.google.code.gson:gson:2.10")
 
+    implementation("org.tensorflow:tensorflow-lite-task-text:0.3.0")
+
 }
